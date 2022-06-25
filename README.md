@@ -8,3 +8,5 @@ User:
           quanvo/quan04072001
 
 Just copy it to the computer and run the app on Android
+
+Folder "SaleManager" >_< Wrong name so dont care about it.
